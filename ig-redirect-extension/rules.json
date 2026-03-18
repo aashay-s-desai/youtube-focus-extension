@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://raec.rocklinusd.org/documents/GradPortfolioFiles/Standard%20Application.pdf"
+      }
+    },
+    "condition": {
+      "urlFilter": "instagram.com",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
