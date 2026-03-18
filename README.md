@@ -65,4 +65,15 @@ This is normal for manually loaded extensions. Chrome shows this warning because
 
 ---
 
-*Built because YouTube's algorithm deserves a mute button.*
+## 🔗 Bonus Extension — Instagram Redirector
+
+Also included in this repo is a second extension: **`ig-redirect-extension/`**
+
+It redirects every Instagram URL (`instagram.com/*`) to a specified page — in this case, a college application PDF. Same idea as the YouTube homepage redirect, but for Instagram and using Chrome's network-level interception so the redirect happens before the page even begins to load.
+
+### Installation
+Same steps as above — just point **Load unpacked** at the `ig-redirect-extension` folder instead.
+
+---
+
+*Built because the algorithm deserves a mute button.*
