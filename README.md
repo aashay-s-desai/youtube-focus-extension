@@ -8,11 +8,11 @@ A Chrome extension that strips YouTube down to what actually matters — your su
 
 | Feature | Description |
 |---|---|
-| 🔀 **Redirects Shorts** | Clicking any Shorts link (including the sidebar button) redirects you to your Subscriptions feed instead — it can't be hidden via CSS, so it's been neutered |
 | 🏠 **Redirects Homepage** | Going to `youtube.com` automatically takes you to your **Subscriptions feed** |
 | 🧹 **Cleans the Sidebar** | Removes the Home button, Explore, Shopping, Music, Movies & TV, YouTube Premium, YouTube Kids, Report History, and all footer clutter |
 | 📺 **Focused Watch Page** | Hides the recommendations panel on the right side when watching a video — just the video and comments |
 | 🚫 **Removes Shorts from Feeds** | Strips Shorts shelves from the home/subscriptions feed and Shorts entries from search results |
+| 🔀 **Redirects Shorts** | Clicking any Shorts link (including the sidebar button and external links) redirects you to your Subscriptions feed instead — it can't be hidden via CSS, so it's been neutered |
 
 ---
 
